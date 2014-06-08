@@ -25,6 +25,14 @@
   <lastmod>2014-06-08</lastmod>
  </url>
  <url>
+  <loc>http://rz981.net/galleries/纪念郑益新/index.html</loc>
+  <lastmod>2014-06-08</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/纪念郑益新/rss.xml</loc>
+  <lastmod>2014-06-08</lastmod>
+ </url>
+ <url>
   <loc>http://rz981.net/index.html</loc>
   <lastmod>2014-06-08</lastmod>
  </url>
@@ -33,11 +41,11 @@
   <lastmod>2014-06-08</lastmod>
  </url>
  <url>
-  <loc>http://rz981.net/posts/efficient-reading.html</loc>
+  <loc>http://rz981.net/rss.xml</loc>
   <lastmod>2014-06-08</lastmod>
  </url>
  <url>
-  <loc>http://rz981.net/rss.xml</loc>
+  <loc>http://rz981.net/stories/memory.html</loc>
   <lastmod>2014-06-08</lastmod>
  </url>
 </urlset>
