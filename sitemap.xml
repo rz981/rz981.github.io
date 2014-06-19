@@ -5,47 +5,91 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://rz981.net/2014/index.html</loc>
-  <lastmod>2014-06-08</lastmod>
- </url>
- <url>
   <loc>http://rz981.net/archive.html</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/categories/index.html</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/galleries/index.html</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/college/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/college/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/group photo/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/group photo/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/high school/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/high school/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/remnants/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/remnants/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/taekwondo/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/taekwondo/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/群英会/index.html</loc>
+  <lastmod>2014-06-19</lastmod>
+ </url>
+ <url>
+  <loc>http://rz981.net/galleries/memory/群英会/rss.xml</loc>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/galleries/rss.xml</loc>
-  <lastmod>2014-06-08</lastmod>
- </url>
- <url>
-  <loc>http://rz981.net/galleries/纪念郑益新/index.html</loc>
-  <lastmod>2014-06-08</lastmod>
- </url>
- <url>
-  <loc>http://rz981.net/galleries/纪念郑益新/rss.xml</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/index.html</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/listings/index.html</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/rss.xml</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
  <url>
   <loc>http://rz981.net/stories/memory.html</loc>
-  <lastmod>2014-06-08</lastmod>
+  <lastmod>2014-06-19</lastmod>
  </url>
 </urlset>
